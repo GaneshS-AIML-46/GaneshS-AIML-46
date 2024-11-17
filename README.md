@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GANESH S</h1>
 <h3 align="center">Iam a Machine learning Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://github.com/GaneshS-AIML-46</h3>
 <p align="left">
 </p>
 
