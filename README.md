@@ -1,10 +1,108 @@
-<h1 align="center">Hi 👋, I'm GANESH S</h1>
-<h3 align="center">Iam a Machine learning Engineer</h3>
-
-<h3 align="left">Connect with me: https://github.com/GaneshS-AIML-46</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F75C7E&center=true&vCenter=true&width=750&lines=Teaching+Machines+How+to+Think;Turning+Ideas+into+Intelligent+Systems;AI+%7C+Machine+Learning+%7C+Code" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<hr>
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+
+<h1 align="center">Hi 👋, I'm GANESH S</h1>
+
+<h3 align="center">
+Exploring AI and Machine Learning, fueled by curiosity and coffee ☕
+</h3>
+
+<p align="center">
+I am fascinated by how Artificial Intelligence and modern computer technologies 🤖🌐 are transforming the world.  
+The rapid growth of AI and Machine Learning inspired me to dive deeper into the field and build intelligent systems that solve real-world problems.
+
+I enjoy learning new concepts in AI, Machine Learning, and Data Science while improving my problem-solving and programming skills.
+
+I love working with programming languages like Java, C, and Python 🧑‍💻 to build projects, experiment with algorithms, and implement machine learning models.
+
+I am always curious about new technologies, frameworks, and tools and enjoy exploring new tech stacks 💻 to build innovative solutions 🛠️.
+</p>
+
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="62" height="62">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="62" height="62">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="62" height="62">
+
+<br><br>
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="62" height="62">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="62" height="62">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62" height="62">
+
+</div>
+
+<br>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<br><br>
+
+- 🔭 I’m currently open to a **Job**  
+- 🌱 I’m currently learning **DevOps**  
+- 💬 Ask me about **Java, C**  
+- 📫 How to reach me **231501046@rajalashmi.edu.in**  
+- ⚡ Fun fact **I think I'm funny**  
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
+</a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,c,fastapi">
+</p>
+
+Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,androidstudio">
+</p>
+
+Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql">
+</p>
+
+Cloud Servers
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare">
+</p>
+
+Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,discord,pytorch,tensorflow">
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you!</em>
+
+<br>
+
+<p align="right">
+Created with 💚 by <a href="https://github.com/GaneshS-AIML-46">GANESH</a>
+</p>
