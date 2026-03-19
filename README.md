@@ -53,7 +53,7 @@ I am always curious about new technologies, frameworks, and tools and enjoy expl
 - 🔭 I’m currently open to a **Job**  
 - 🌱 I’m currently learning **DevOps**  
 - 💬 Ask me about **Java, C**  
-- 📫 How to reach me **231501046@rajalashmi.edu.in**  
+- 📫 How to reach me **231501046@rajalakshmi.edu.in**  
 - ⚡ Fun fact **I think I'm funny**  
 
 <br>
