@@ -29,6 +29,7 @@ I am always curious about new technologies, frameworks, and tools and enjoy expl
 <h2 align="center">💻 Tech Stack</h2>
 
 <table align="center">
+  <table align="center" cellspacing="12">
   <tr>
     <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"></td>
     <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"></td>
