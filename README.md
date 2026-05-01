@@ -28,21 +28,20 @@ I am always curious about new technologies, frameworks, and tools and enjoy expl
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div align="center">
-
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="62" height="62">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="62" height="62">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="62" height="62">
-
-<br><br>
-
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="62" height="62">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="62" height="62">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62" height="62">
-
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"></td>
+  </tr>
+</table>
 
 <br>
 
